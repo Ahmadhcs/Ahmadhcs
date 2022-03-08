@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ahmadhcs
 - 👀 I’m interested in 
-- 🌱 I’m currently learning data structures and algorithms, aswell as machine learning
+- 🌱 
+- 
 
 
 <!---
