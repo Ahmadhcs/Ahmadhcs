@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ahmadhcs a third year computer science student at New York Univeristy! 
-- 👀 I’m interested in FrontEnd design. 
-- 🌱 
-- 
+
 
 
 <!---
