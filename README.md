@@ -7,6 +7,7 @@
 - I am currently expanding my knowledge on the MERN stack :seedling:
 - I am looking for an internship in front-end, back-end, or full-stack development :mag_right: 
 
+[resume]()
 
 Feel Free to reach me at aalmesned1.sch@gmail.com
 
