@@ -5,7 +5,7 @@
 - I am interested in full-stack web development and UX Design :point_left:
 - I've worked on projects using react, node, express, C, Java, python, and p5 :ok_hand:
 - I am currently expanding my knowledge on the MERN stack :seedling:
-- I am looking for an internship :mag_right: 
+- I am looking for an internship in front-end, back-end, or full-stack development :mag_right: 
 
 
 Feel Free to reach me at aalmesned1.sch@gmail.com
