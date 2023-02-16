@@ -7,7 +7,7 @@
 - :seedling: I am currently expanding my knowledge on the MERN stack 
 - :mag_right: I am looking for an internship in front-end, back-end, or full-stack development 
 - 📫 How to reach me: aalmesned1.sch@gmail.com 
-- ⚡ Fun fact: I am an avid bodybuilder 
+
 
 -[Checkout my most recent Project: MUSAIK](https://github.com/agiledev-students-fall2022/final-project-team-musaik)
 -[Checkout my Rainbow Six Siege H2H Project](https://github.com/nyu-csci-ua-0467-001-002-fall-2022/final-project-Ahmadhcs)
