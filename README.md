@@ -2,7 +2,7 @@
 
 ### About Me!
 - 👨‍🎓 I am a fourth year Computer Science student at NYU  
-- :point_left: I am interested in full-stack web development  
+- :point_right: I am interested in full-stack web development  
 - :ok_hand: I've worked on projects using react.js, node.js, express, C, Java, python, and p5 
 - :seedling: I am currently expanding my knowledge on the MERN stack 
 - :mag_right: I am looking for a full-time job in front-end, back-end, or full-stack development 
