@@ -11,9 +11,8 @@
 
 
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,express,java,nodejs,py,react)](https://skillicons.dev)
- -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,express,mongodb)](https://skillicons.dev)
 
 
 
