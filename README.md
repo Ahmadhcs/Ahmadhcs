@@ -11,7 +11,7 @@
 
 
 
-### My Skills
+### Main Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,express,mongodb)](https://skillicons.dev)
 
 
